@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HiAR>
+	<KeyItemList>
+		<KeyItem name="apple" targetID="4900bc71a3d1f94f5956660f39a54d8a" width="854" height="480" extName=".jpg" version="1.2.0"></KeyItem>
+		<KeyItem name="20160818213930233" targetID="d07659c294b32a94f993006794c0e3b3" width="563" height="452" extName=".jpg" version="1.2.0"></KeyItem>
+		<KeyItem name="e1fe9925bc315c6001e93f3388b1cb" targetID="0e54cee467a0bc105a7c9c51c95884a6" width="680" height="911" extName=".jpg" version="1.2.0"></KeyItem>
+		<KeyItem name="en1zs52seqm" targetID="2130311cc34e07924ae15aaad20f7eac" width="640" height="799" extName=".jpg" version="1.2.0"></KeyItem>
+	</KeyItemList>
+</HiAR>
